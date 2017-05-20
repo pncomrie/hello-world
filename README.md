@@ -1,3 +1,3 @@
 # hello-world
 
-Hello! This is a test. Meow. 
+Hello! I'm Paige and I'm learning to code. Meow. =^.^=
